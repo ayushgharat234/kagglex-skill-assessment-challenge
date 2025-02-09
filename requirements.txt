@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+shap
+category_encoders
+joblib
